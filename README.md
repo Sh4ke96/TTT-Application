@@ -9,7 +9,6 @@ Simple Tic-Tac-Toe Game written in Vue.js using Vite for the first time to build
 ## Built With
 
 * [Vue](https://vuejs.org/)
-* [SASS](https://sass-lang.com)
 * [Vite](https://vitejs.dev/)
 
 ## Author
