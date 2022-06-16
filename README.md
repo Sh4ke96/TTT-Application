@@ -1,8 +1,16 @@
-# Vue 3 + Vite
+# TTT Application
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Simple Tic-Tac-Toe Game written in Vue.js using Vite for the first time to build application.
 
-## Recommended IDE Setup
+## Live on Github Pages:
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-# TTT-Application
+[https://ttt-application.netlify.app/](https://ttt-application.netlify.app/)
+
+## Built With
+
+* [Vue](https://vuejs.org/)
+* [SASS](https://sass-lang.com)
+* [Vite](https://vitejs.dev/)
+
+## Author
+* Artur Michałek - [Sh4ke96](https://github.com/Sh4ke96)
